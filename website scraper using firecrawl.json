@@ -38,7 +38,7 @@
           "parameters": [
             {
               "name": "Authorization",
-              "value": "Bearer fc-7d07531ff21c4e67ab8333d0df517e1d"
+              "value": "Bearer <firecrawl api key>"
             }
           ]
         },
@@ -64,7 +64,7 @@
           "parameters": [
             {
               "name": "Authorization",
-              "value": "Bearer fc-7d07531ff21c4e67ab8333d0df517e1d"
+              "value": "Bearer <firecrawl api key>"
             }
           ]
         },
@@ -242,7 +242,7 @@
           "parameters": [
             {
               "name": "Authorization",
-              "value": "Bearer fc-7d07531ff21c4e67ab8333d0df517e1d"
+              "value": "Bearer <firecrawl api key>"
             }
           ]
         },
@@ -268,7 +268,7 @@
           "parameters": [
             {
               "name": "Authorization",
-              "value": "Bearer fc-7d07531ff21c4e67ab8333d0df517e1d"
+              "value": "Bearer <firecrawl api key>"
             }
           ]
         },
