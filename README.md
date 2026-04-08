@@ -1,4 +1,4 @@
-# 🚀 Live Development Hub by Hasan
+# 🔴 Live Development Hub by Hasan
 
 Welcome to my live development repository.  
 This space is created to share real time builds, automation systems, and practical workflows that I develop live on YouTube.
